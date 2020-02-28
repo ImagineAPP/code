@@ -1,7 +1,5 @@
-*FUNCIONALIDADES*
 
-...
-> MÓDULO DE CADASTRO (Inclusão / alteração)
+> **MÓDULO DE CADASTRO** (Inclusão / alteração)
 
 CONTA
  - Nr telefone (?)
