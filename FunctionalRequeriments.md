@@ -35,7 +35,7 @@
   - Local de saída do sistema de transporte público
   - Meio de transporte público 
   - Frequência esperada de utilização semanal 
-  - Detalhes <br>
+  - **Detalhes** <br>
      - Marcação do local (busca + PIN)
      - Opções de meio de transporte (ônibus/trem/metro)
      - Opções de frequência semanal (7, 6, 5, 4, 3, 2, 1)  
@@ -65,8 +65,9 @@
 
 **MAPAS DE CALOR (heat maps)**
   - Rotas cadastradas 
-  - Todas a rotas 
-  - Detalhes
+  - Todas a rotas
+  
+  **Detalhes**
      - Distinção de cores por nível de evolução do potencial de transmissão. 
      - Mapa local alcance global (pesquisa por palavra chave)
 
