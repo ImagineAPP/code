@@ -15,7 +15,7 @@ ROTA
   - Local de saída do sistema de transporte público
   - Meio de transporte público 
   - Frequência esperada de utilização semanal 
-  - Detalhes
+  - Detalhes <br>
      • Marcação do local (busca + PIN) 
      • Opções de meio de transporte (ônibus/trem/metro)
      • Opções de frequência semanal (7, 6, 5, 4, 3, 2, 1)  
