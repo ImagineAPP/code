@@ -49,13 +49,13 @@
 
 **ESTADO DE SAÚDE**  <br>
   - Estado de saúde atual frente ao COVID-19  <br>
-  - Detalhes
+  - **DETALHES**
      - Opções de sintomas (Sem sintomas / Com sintomas, mas não confirmado / Confirmado)
 <br>
 
 **FREQUÊNCIA DE ATUALIZAÇÃO**
   - Frequência de recebimento via push
-  - Detalhes
+  - DETALHES
      - Opções de frequência de recebimento (Diária / Semanal / Mensal)
 <br>
 
