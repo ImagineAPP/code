@@ -37,18 +37,18 @@
 
 **ROTA** <br>
 • Rota no transporte público   
-  - Local de entrada no sistema de transporte publico
-  - Local de saída do sistema de transporte público
-  - Meio de transporte público 
-  - Frequência esperada de utilização semanal
+  - Local de entrada no sistema de transporte publico <br>
+  - Local de saída do sistema de transporte público <br>
+  - Meio de transporte público <br>
+  - Frequência esperada de utilização semanal <br>
   - **Detalhes** 
      - Marcação do local (busca + PIN)
      - Opções de meio de transporte (ônibus/trem/metro)
      - Opções de frequência semanal (7, 6, 5, 4, 3, 2, 1)  
 <br>
 
-**ESTADO DE SAÚDE**  
-  - Estado de saúde atual frente ao COVID-19 
+**ESTADO DE SAÚDE**  <br>
+  - Estado de saúde atual frente ao COVID-19  <br>
   - Detalhes
      - Opções de sintomas (Sem sintomas / Com sintomas, mas não confirmado / Confirmado)
 <br>
