@@ -67,6 +67,7 @@
      - Mapa local alcance global (pesquisa por palavra chave)
 
 <br>
+
 **MAPAS PARA ESPECIALISTAS**
   - Histórico de evolução por rota
   - Detalhes
