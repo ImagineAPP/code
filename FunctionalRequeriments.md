@@ -16,10 +16,9 @@ ROTA
   - Meio de transporte público 
   - Frequência esperada de utilização semanal 
   - Detalhes <br>
-  
-     - - Marcação do local (busca + PIN)
-     - - Opções de meio de transporte (ônibus/trem/metro)
-     - - Opções de frequência semanal (7, 6, 5, 4, 3, 2, 1)  
+     - Marcação do local (busca + PIN)
+     - Opções de meio de transporte (ônibus/trem/metro)
+     - Opções de frequência semanal (7, 6, 5, 4, 3, 2, 1)  
 <br>
 
 ESTADO DE SAÚDE   
