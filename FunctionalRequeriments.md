@@ -36,11 +36,11 @@
 <br>
 
 **ROTA** <br>
-• Rota no transporte público   
-  - Local de entrada no sistema de transporte publico <br>
-  - Local de saída do sistema de transporte público <br>
-  - Meio de transporte público <br>
-  - Frequência esperada de utilização semanal <br>
+  - Rota no transporte público   
+     - Local de entrada no sistema de transporte publico <br>
+     - Local de saída do sistema de transporte público <br>
+     - Meio de transporte público <br>
+     - Frequência esperada de utilização semanal 
   - **Detalhes** 
      - Marcação do local (busca + PIN)
      - Opções de meio de transporte (ônibus/trem/metro)
