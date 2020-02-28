@@ -1,4 +1,4 @@
-# ARQUITETURA 
+## ARQUITETURA 
 
 **CÓDIGO** <br>
   - Arquitetura em microserviços
@@ -8,17 +8,20 @@
 <br>
 
 **BANCO DE DADOS**
-  - Banco de dados não estruturado - MongoDB 
+  - Banco de dados não estruturado - MongoDB
+  
+<br>
 
-# BANCO DE DADOS
+## BANCO DE DADOS
+
+<br>
+<br>
+
+## CÓDIGO 
 
 <br>
 
-# CÓDIGO 
-
-<br>
-
-## MÓDULOS DO SOFTWARE
+### MÓDULOS 
 - Cadastro
 - Acesso
 - Atualizações
@@ -27,7 +30,7 @@
 
 <br>
 
-## MÓDULO DE CADASTRO (Inclusão / alteração)
+### MÓDULO DE CADASTRO (Inclusão / alteração)
 
 **CONTA**
  - Nr telefone
@@ -60,13 +63,13 @@
      - Opções de frequência de recebimento (Diária / Semanal / Mensal)
 <br>
 
-## MODULO DE ATUALIZAÇÃO
+### MODULO DE ATUALIZAÇÃO
   - Notificação (push) para atualização da utilização das rotas.
   - Detalhes
      - Atualiza frequência real de utilização por rota cadastrada;
 <br>
 
-## MÓDULO DE VISUALIZAÇÕES 
+### MÓDULO DE VISUALIZAÇÕES 
 
 **MAPAS DE CALOR (heat maps)**
   - Rotas cadastradas 
@@ -83,16 +86,13 @@
      - Gráfico com evolução do potencial de transmissão por rota. 
 <br>
 
-## ALGORITMOS
-  - Cálculo do potencial de transmissão da rota (TP);
-  - ...
+### ALGORITMOS
+
+**Cálculo do potencial de transmissão da rota (TP)**
   - Detalhes
      - Versionamento do TP 
+
 <br>
 
-## ARQUITETURA
-  - ... 
-  - ...
-  - Detalhes
-     - Versionamento do TP 
+
 
