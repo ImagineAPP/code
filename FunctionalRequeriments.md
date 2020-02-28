@@ -60,8 +60,10 @@
 <br>
 
 ## MODULO DE ATUALIZAÇÃO
+
+**ATUALIZAÇÃO DA UTILIZAÇÃO**
   - Notificação (push) para atualização da utilização das rotas.
-  - Detalhes
+  - **DETALHES**
      - Atualiza frequência real de utilização por rota cadastrada;
 <br>
 
@@ -70,7 +72,7 @@
 **MAPAS DE CALOR (heat maps)**
   - Rotas cadastradas 
   - Todas a rotas
-  - **Detalhes**
+  - **DETALHES**
      - Distinção de cores por nível de evolução do potencial de transmissão. 
      - Mapa local alcance global (pesquisa por palavra chave)
 
@@ -78,14 +80,14 @@
 
 **MAPAS PARA ESPECIALISTAS**
   - Histórico de evolução por rota
-  - Detalhes
+  - DETALHES
      - Gráfico com evolução do potencial de transmissão por rota. 
 <br>
 
 ## MÓDULO DE ALGORITMOS
 
 **Cálculo do potencial de transmissão da rota (TP)**
-  - Detalhes
+  - DETALHES
      - Versionamento do TP 
 
 <br>
