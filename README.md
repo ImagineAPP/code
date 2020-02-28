@@ -1,8 +1,8 @@
 **O que é** <br>
-*Open Source Software* que mapeia os trajetos públicos e seus potenciais de transmissão pessoa-pessoa do vírus COVID-19. <br><br> 
+Aplicação mobile *Open Source Software* que mapeia os trajetos públicos e calcula seus potenciais de transmissão do vírus COVID-19 entre humanos. <br><br> 
 
 **Como**  <br>
-O software traça mapas em tempo real do **status atual** e do **histórico de evolução** das rotas de potencial transmissão do COVID19 entre pessoas nos transportes públicos. <br><br> 
+O software exibe mapas em tempo real do **status atual** e do **histórico de evolução** do potencial de transmissão do COVID19 nos diversos trajetos de transportes públicos de uma localidade. <br><br> 
 
 **Para que** <br>
 Com o mapeamento das principais rotas de potencial transmissão do vírus: 
