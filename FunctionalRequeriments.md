@@ -41,7 +41,7 @@
 <br>
 
 **ESTADO DE SAÚDE**  
-  -  Estado de saúde atual frente ao COVID-19 
+  - Estado de saúde atual frente ao COVID-19 
   - Detalhes
      - Opções de sintomas (Sem sintomas / Com sintomas, mas não confirmado / Confirmado)
 <br>
