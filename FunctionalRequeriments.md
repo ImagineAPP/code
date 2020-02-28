@@ -2,10 +2,10 @@
 
 **CÓDIGO** <br>
   - Arquitetura em microserviços
-  - Interação via API 
+  - Interação via API <br>
 
-**BANCO DE DADOS** <br>
-  - Banco de dados não estruturado - MongoDB <br>
+**BANCO DE DADOS**
+  - Banco de dados não estruturado - MongoDB 
 
 # BANCO DE DADOS
 
