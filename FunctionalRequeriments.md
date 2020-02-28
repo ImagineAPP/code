@@ -34,9 +34,8 @@
   - Local de entrada no sistema de transporte publico
   - Local de saída do sistema de transporte público
   - Meio de transporte público 
-  - Frequência esperada de utilização semanal
-  
-  - **Detalhes** <br>
+  - Frequência esperada de utilização semanal <br>
+  - **Detalhes** 
      - Marcação do local (busca + PIN)
      - Opções de meio de transporte (ônibus/trem/metro)
      - Opções de frequência semanal (7, 6, 5, 4, 3, 2, 1)  
