@@ -1,13 +1,21 @@
 # ARQUITETURA 
 
+**CÓDIGO** <br>
+  - Arquitetura em microserviços
+  - Interação via API 
 
+**BANCO DE DADOS** <br>
+  - Banco de dados não estruturado - MongoDB 
 
 <br>
 
 # BANCO DE DADOS
+
 <br>
 
 # CÓDIGO 
+
+<br>
 
 ## MÓDULOS DO SOFTWARE
 - Cadastro
@@ -27,7 +35,7 @@
 
 <br>
 
-**ROTA**
+**ROTA** <br>
 • Rota no transporte público   
   - Local de entrada no sistema de transporte publico
   - Local de saída do sistema de transporte público
