@@ -32,7 +32,7 @@
   - Local de entrada no sistema de transporte publico
   - Local de saída do sistema de transporte público
   - Meio de transporte público 
-  - Frequência esperada de utilização semanal <br>
+  - Frequência esperada de utilização semanal
   - **Detalhes** 
      - Marcação do local (busca + PIN)
      - Opções de meio de transporte (ônibus/trem/metro)
@@ -49,16 +49,12 @@
   - Frequência de recebimento via push
   - Detalhes
      - Opções de frequência de recebimento (Diária / Semanal / Mensal)
-
-
 <br>
 
 ## MODULO DE ATUALIZAÇÃO
   - Notificação (push) para atualização da utilização das rotas.
   - Detalhes
      - Atualiza frequência real de utilização por rota cadastrada;
-
-
 <br>
 
 ## MÓDULO DE VISUALIZAÇÕES 
@@ -73,11 +69,8 @@
 <br>
 **MAPAS PARA ESPECIALISTAS**
   - Histórico de evolução por rota
-  - 
   - Detalhes
      - Gráfico com evolução do potencial de transmissão por rota. 
-
-
 <br>
 
 ## ALGORITMOS
@@ -85,7 +78,6 @@
   - ...
   - Detalhes
      - Versionamento do TP 
-
 <br>
 
 ## ARQUITETURA
