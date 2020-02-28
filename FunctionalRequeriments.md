@@ -8,6 +8,7 @@ CONTA
   - Detalhes
      • . 
 <br>
+
 ROTA
 • Rota no transporte público   
   - Local de entrada no sistema de transporte publico
@@ -18,14 +19,14 @@ ROTA
      • Marcação do local (busca + PIN) 
      • Opções de meio de transporte (ônibus/trem/metro)
      • Opções de frequência semanal (7, 6, 5, 4, 3, 2, 1)  
-
 <br>
+
 ESTADO DE SAÚDE   
   -  Estado de saúde atual frente ao COVID-19 
   - Detalhes
      • Opções de sintomas (Sem sintomas / Com sintomas, mas não confirmado / Confirmado)
-
 <br>
+
 FREQUÊNCIA DE ATUALIZAÇÃO 
   - Frequência de recebimento via push
   - Detalhes
