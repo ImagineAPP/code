@@ -2,13 +2,13 @@
 
 **CÓDIGO** <br>
   - Arquitetura em microserviços
-  - Interação via API entre módulos 
+  - Interação via API entre módulos e algoritmos 
+  - Algoritmos 
   - Módulos 
     - Cadastro
     - Acesso
     - Atualizações
     - Visualizações
-    - Algoritmos
 <br>
 
 **BANCO DE DADOS**
@@ -44,10 +44,9 @@
 ## MÓDULO DE CADASTRO (Inclusão / alteração)
 
 **CONTA**
-  - Nr telefone
-  - DETALHES
+  - Nr telefone /ID 
+  - **DETALHES**
     - . 
-
 <br>
 
 **ROTA** <br>
@@ -70,14 +69,15 @@
 
 **FREQUÊNCIA DE ATUALIZAÇÃO**
   - Frequência de recebimento via push
-  - DETALHES
+  - **DETALHES**
      - Opções de frequência de recebimento (Diária / Semanal / Mensal)
 <br>
 
-## MODULO DE ATUALIZAÇÃO
+## MÓDULO DE NOTIFICAÇÕES
 
 **ATUALIZAÇÃO DA UTILIZAÇÃO**
-  - Notificação (push) para atualização da utilização das rotas.
+  - **MENU**
+     - Notificação (push) para atualização da utilização das rotas.
   - **DETALHES**
      - Atualiza frequência real de utilização por rota cadastrada;
 <br>
@@ -85,8 +85,9 @@
 ## MÓDULO DE VISUALIZAÇÕES 
 
 **MAPAS DE CALOR (heat maps)**
-  - Rotas cadastradas 
-  - Todas a rotas
+  - **MENU**
+     - Rotas cadastradas 
+     - Todas a rotas
   - **DETALHES**
      - Distinção de cores por nível de evolução do potencial de transmissão. 
      - Mapa local alcance global (pesquisa por palavra chave)
@@ -94,15 +95,16 @@
 <br>
 
 **MAPAS PARA ESPECIALISTAS**
-  - Histórico de evolução por rota
-  - DETALHES
+  - **MENU**
+     - Histórico de evolução por rota
+  - **DETALHES**
      - Gráfico com evolução do potencial de transmissão por rota. 
 <br>
 
 ## MÓDULO DE ALGORITMOS
 
 **Cálculo do potencial de transmissão da rota (TP)**
-  - DETALHES
+  - **DETALHES**
      - Versionamento do TP 
 
 <br>
