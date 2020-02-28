@@ -44,9 +44,10 @@
 ## MÓDULO DE CADASTRO (Inclusão / alteração)
 
 **CONTA**
-  - Nr telefone /ID 
+  - **CAMPOS**
+     - Nr telefone /ID 
   - **DETALHES**
-    - . 
+     - Confirmar nr tel via SMS no cadastro. 
 <br>
 
 **ROTA** <br>
@@ -62,7 +63,8 @@
 <br>
 
 **ESTADO DE SAÚDE**  <br>
-  - Estado de saúde atual frente ao COVID-19 
+  - **CAMPOS**
+     - Estado de saúde atual frente ao COVID-19 
   - **DETALHES**
      - Opções de sintomas (Sem sintomas / Com sintomas, mas não confirmado / Confirmado)
 <br>
@@ -77,9 +79,11 @@
 
 **ATUALIZAÇÃO DA UTILIZAÇÃO**
   - **MENU**
-     - Notificação (push) para atualização da utilização das rotas.
+     - Atualização da utilização das rotas
+     - Atualização do estado de saúde 
   - **DETALHES**
-     - Atualiza frequência real de utilização por rota cadastrada;
+     - Atualiza frequência real de utilização por rota cadastrada
+     - Atualiza o estado de saúde 
 <br>
 
 ## MÓDULO DE VISUALIZAÇÕES 
