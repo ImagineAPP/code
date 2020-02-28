@@ -9,10 +9,6 @@
     - Atualizações
     - Visualizações
     - Algoritmos
-
-<br>
-
-  
 <br>
 
 **BANCO DE DADOS**
