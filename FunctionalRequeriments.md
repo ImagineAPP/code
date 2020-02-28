@@ -3,7 +3,15 @@
 **CÓDIGO** <br>
   - Arquitetura em microserviços
   - Interação via API 
-  
+  - Módulos 
+    - Cadastro
+    - Acesso
+    - Atualizações
+    - Visualizações
+    - Algoritmos
+
+<br>
+
   
 <br>
 
@@ -21,16 +29,8 @@
 
 <br>
 
-### MÓDULOS 
-- Cadastro
-- Acesso
-- Atualizações
-- Visualizações
-- Algoritmos
 
-<br>
-
-### MÓDULO DE CADASTRO (Inclusão / alteração)
+## MÓDULO DE CADASTRO (Inclusão / alteração)
 
 **CONTA**
  - Nr telefone
@@ -63,13 +63,13 @@
      - Opções de frequência de recebimento (Diária / Semanal / Mensal)
 <br>
 
-### MODULO DE ATUALIZAÇÃO
+## MODULO DE ATUALIZAÇÃO
   - Notificação (push) para atualização da utilização das rotas.
   - Detalhes
      - Atualiza frequência real de utilização por rota cadastrada;
 <br>
 
-### MÓDULO DE VISUALIZAÇÕES 
+## MÓDULO DE VISUALIZAÇÕES 
 
 **MAPAS DE CALOR (heat maps)**
   - Rotas cadastradas 
@@ -86,7 +86,7 @@
      - Gráfico com evolução do potencial de transmissão por rota. 
 <br>
 
-### ALGORITMOS
+## MÓDULO DE ALGORITMOS
 
 **Cálculo do potencial de transmissão da rota (TP)**
   - Detalhes
