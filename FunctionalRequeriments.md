@@ -5,9 +5,7 @@
   - Interação via API 
 
 **BANCO DE DADOS** <br>
-  - Banco de dados não estruturado - MongoDB 
-
-<br>
+  - Banco de dados não estruturado - MongoDB <br>
 
 # BANCO DE DADOS
 
