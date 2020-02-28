@@ -1,5 +1,5 @@
 
-> **MÓDULO DE CADASTRO** (Inclusão / alteração)
+**MÓDULO DE CADASTRO (Inclusão / alteração)**
 
 CONTA
  - Nr telefone (?)
@@ -33,14 +33,14 @@ FREQUÊNCIA DE ATUALIZAÇÃO
 
 
 ...
-> MODULO DE ATUALIZAÇÃO   
+**MODULO DE ATUALIZAÇÃO**   
   - Notificação (push) para atualização da utilização das rotas.
   - Detalhes
      • Atualiza frequência real de utilização por rota cadastrada;
 
 
 ...
-> MAPAS 
+**MAPAS**
 
 MAPAS DE CALOR (heat maps) 
   - Rotas cadastradas 
@@ -58,14 +58,14 @@ MAPAS PARA ESPECIALISTAS
 
 
 ... 
-> ALGORITMOS
+**ALGORITMOS**
   - Cálculo do potencial de transmissão da rota (TP);
   - ...
   - Detalhes
      •  Versionamento do TP 
 
 ... 
-> ARQUITETURA
+**ARQUITETURA**
   - ... 
   - ...
   - Detalhes
