@@ -2,7 +2,7 @@
 
 **CÓDIGO** <br>
   - Arquitetura em microserviços
-  - Interação via API 
+  - Interação via API entre módulos 
   - Módulos 
     - Cadastro
     - Acesso
@@ -14,24 +14,39 @@
 **BANCO DE DADOS**
   - Banco de dados não estruturado - MongoDB
   
+
+
 <br>
 
 ## BANCO DE DADOS
 
+**TABELA DE USUÁRIOS**
+  - ID / Telefone
+  - Status
+  - Frequência atualização
 <br>
+
+**TABELA DE ROTAS**
+  - Local início
+  - Local fim
+  - Transporte 
+  - Frequência
+  - Usuário
+
+
+
 <br>
 
 ## CÓDIGO 
 
 <br>
 
-
 ## MÓDULO DE CADASTRO (Inclusão / alteração)
 
 **CONTA**
- - Nr telefone
- - Detalhes
-   - . 
+  - Nr telefone
+  - DETALHES
+    - . 
 
 <br>
 
@@ -41,7 +56,7 @@
      - Local de fim da rota
      - Meio de transporte público
      - Frequência esperada de utilização semanal 
-  - **Detalhes** 
+  - **DETALHES** 
      - Marcação do local (busca + PIN)
      - Opções de meio de transporte (ônibus/trem/metro)
      - Opções de frequência semanal (7, 6, 5, 4, 3, 2, 1)  
