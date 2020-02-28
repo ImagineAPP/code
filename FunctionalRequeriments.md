@@ -5,8 +5,6 @@
 <br>
 
 # BANCO DE DADOS
-
-
 <br>
 
 # CÓDIGO 
@@ -53,21 +51,22 @@
      - Opções de frequência de recebimento (Diária / Semanal / Mensal)
 
 
-<br><br>
+<br>
+
 ## MODULO DE ATUALIZAÇÃO
   - Notificação (push) para atualização da utilização das rotas.
   - Detalhes
      - Atualiza frequência real de utilização por rota cadastrada;
 
 
-<br><br>
+<br>
+
 ## MÓDULO DE VISUALIZAÇÕES 
 
 **MAPAS DE CALOR (heat maps)**
   - Rotas cadastradas 
   - Todas a rotas
-  
-  **Detalhes**
+  - **Detalhes**
      - Distinção de cores por nível de evolução do potencial de transmissão. 
      - Mapa local alcance global (pesquisa por palavra chave)
 
@@ -79,14 +78,16 @@
      - Gráfico com evolução do potencial de transmissão por rota. 
 
 
-<br><br>
+<br>
+
 ## ALGORITMOS
   - Cálculo do potencial de transmissão da rota (TP);
   - ...
   - Detalhes
      - Versionamento do TP 
 
-<br><br>
+<br>
+
 ## ARQUITETURA
   - ... 
   - ...
