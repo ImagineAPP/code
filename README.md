@@ -1,8 +1,8 @@
 **O que é** <br>
-Aplicação mobile OSS (*Open Source Software*) que mapeia o potencial de transmissão do vírus COVID-19 nos trajetos de transportes públicos. <br><br> 
+Aplicação mobile de **software de código aberto** que mapeia o potencial de transmissão do COVID-19 nos trajetos de transportes públicos. <br><br> 
 
 **Como**  <br>
-O software calcula e exibe mapas em tempo real do **status atual** e do **histórico de evolução** do potencial de transmissão do COVID19 entre humanos nos diversos trajetos dos transportes públicos de uma localidade. <br><br> 
+Ao longo da evolução da epidemia, o software calcula e exibe mapas em tempo real do **status atual** e do **histórico de evolução** do potencial de transmissão entre humanos do vírus COVID-19 nos diversos trajetos dos transportes públicos de uma localidade. <br><br> 
 
 **Para que** <br>
 Com o mapeamento dos principais eixos de transmissão potencial do vírus: 
@@ -12,11 +12,11 @@ Com o mapeamento dos principais eixos de transmissão potencial do vírus:
   - **Autoridades sanitárias** podem acessar dados para planejar com mais eficiência suas campanhas de conscientização sobre os cuidados para evitar a transmissão e para reduzir os impactos negativos da doença. <br><br>
 
 **Como funciona**  <br>
-O usuário não precisa se identificar. Ele só precisa compartilhar os locais de entrada e saída na malha de transporte público que utiliza e informar com que frequência circula por esse trajeto. <br>
+O usuário não precisa se identificar. Ele só precisa compartilhar os **locais de entrada e saída** na malha de transporte público que utiliza e estimar **com que frequência** circula por esse trajeto. <br>
 
 O usuário precisa informar ainda se está "sem sintomas", se "sente os sintomas, mas não tem a confirmação da contaminação" ou se é um "caso confirmado de contaminação". <br>
 
-Ao longo da evolução epidemia, o usuário será convidado a atualizar essas informações **com um clique**, cada vez que receber uma notificação no telefone. <br><br>
+Ao longo da evolução da epidemia, o usuário será convidado a atualizar essas informações **com um clique**, cada vez que receber uma notificação no telefone. <br><br>
 
 **Mapas e gráficos**  <br>
 O software traça uma série de mapas de calor e gráficos orientativos para leigos e especialistas, entre eles as "rotas de maior circulação do vírus" e o histórico da evolução do contágio nestas rotas. 
