@@ -78,6 +78,9 @@ edit autoexec.bat
 
 ## Using COVID-19 CollaborativeTracker
 To use <project_name>, follow these steps:
+```sh
+edit autoexec.bat
+```
 
 ### License
 Distributed under the MIT License. See ![License][license-url] for more information.
@@ -90,22 +93,23 @@ _For more examples and usage, please refer to the [COVID-19 CT Usage Examples][u
 <br>
 
 ## Contributing to COVID-19 CollaborativeTracker
+To contribute to the project, follow these steps:
 1. Fork the project (<https://github.com/imagine-apps/COVID-19/fork>)
 2. Create your branch (`git checkout -b <branch_name>`)
 3. Make your changes and commit them: (`git commit -m '<commit_message>`)
 4. Push to the original branch (`git push origin '<project_name>/<location>`)
 5. Open a new Pull Request
 
-Describe how to install all development dependencies and how to run an automated test-suite of some kind. Potentially do this for multiple platforms.
-
-```sh
-make install
-npm test
-```
+Alternatively see the GitHub documentation on creating a pull request.
 
 ### Roadmap and release history
 See the [open issues](https://github.com/imagine-apps/COVID-19/issues) for a list of proposed features (and known issues).
 
+### Development dependencies and automated test-suite
+```sh
+make install
+npm test
+```
 
 <br>
 
