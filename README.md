@@ -1,6 +1,6 @@
 # COVID-19 [Collaborative Tracker]
 
-*Open source software application that maps the transmission of COVID-19 on public routes.* <br>
+### Collaborative mobile application that maps the COVID-19 human-to-human transmission on public routes. 
 
 <!-- PROJECT SHIELDS -->
 <!--
