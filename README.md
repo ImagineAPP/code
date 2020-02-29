@@ -1,39 +1,37 @@
 **O que é** <br>
-Aplicação mobile *Open Source Software* que mapeia os trajetos públicos e calcula seus potenciais de transmissão do vírus COVID-19 entre humanos. <br><br> 
+Aplicação mobile OSS (*Open Source Software*) que mapeia o potencial de transmissão do vírus COVID-19 nos trajetos de transportes públicos. <br><br> 
 
 **Como**  <br>
-O software exibe mapas em tempo real do **status atual** e do **histórico de evolução** do potencial de transmissão do COVID19 nos diversos trajetos de transportes públicos de uma localidade. <br><br> 
+O software calcula e exibe mapas em tempo real do **status atual** e do **histórico de evolução** do potencial de transmissão do COVID19 entre humanos nos diversos trajetos dos transportes públicos de uma localidade. <br><br> 
 
 **Para que** <br>
-Com o mapeamento das principais rotas de potencial transmissão do vírus: 
-  - **Usuários da aplicação** podem evitar temporariamente a circulação pelas rotas de maior potencial de transmissão e tracar trajetos alternativos de transprte público. 
+Com o mapeamento dos principais eixos de transmissão potencial do vírus: 
+  - **Usuários da aplicação** podem tracar trajetos alternativos de transprte público para evitar temporariamente a circulação nas rotas de maior potencial de transmissão.
   - **Empresas** podem planejar rotinas de trabalho remoto para colaboradores que transitam pelas rotas de maior potencial de transmissão. 
-  - **Empresas de transporte** podem instruir funcionários das rotas de maior potencial de transmissão e reduzir os impactos na operação.
-  - **Autoridades sanitárias** podem planejar com mais eficiência suas campanhas de conscientização sobre os cuidados pessoais. <br><br>
+  - **Empresas de transporte** podem investir na proteção de funcionários que trabalham nas rotas de maior potencial de transmissão para reduzir os impactos econômicos na operação da frotas.
+  - **Autoridades sanitárias** podem acessar dados para planejar com mais eficiência suas campanhas de conscientização sobre os cuidados para evitar a transmissão e para reduzir os impactos negativos da doença. <br><br>
 
 **Como funciona**  <br>
-O usuário não precisa se identificar. Ele só precisa indicar o trajeto de casa para trabalho/escola apontando o local onde entra na malha de transporte e o local onde sai.  <br>
+O usuário não precisa se identificar. Ele só precisa compartilhar o seu trajeto de casa para trabalho ou para a escola, cadastrando os locais de entrada e saída na malha de transporte público que utiliza, e informar com que frequência circula por esse trajeto. <br>
 
-O usuário precisa informar ainda a frequência com que circula por esse trajeto e atualizar essa informação com a periodicidade que desejar (diariamente/semanalmente/mensalmente).  <br>
+O usuário precisa informar ainda se está "sem sintomas", se "sente os sintomas, mas não tem a confirmação da contaminação" ou se é um "caso confirmado de contaminação". <br>
 
-O usuário precisa informar ainda se é assintomático, se sente os sintomas mas não tem a confirmação ou é um caso confirmado.  <br><br>
+Ao longo da evolução epidemia, o usuário só terá que atualizar essas informações com um clique, cada vez que receber uma notificação no telefone. <br><br>
 
 **Mapas e gráficos**  <br>
-O software traça uma série de mapas de calor e graficos, entre eles:
-• Rotas de maior circulação do vírus. 
-• Rotas de maior contágio. 
-• etc. etc.
+O software traça uma série de mapas de calor e gráficos orientativos para leigos e especialistas, entre eles as "Rotas de maior circulação do vírus" e o histórico da evolução do contágio. 
 <br><br>
 
 **Apoiadores**  <br>
+As seguintes organizações e empresas apoiam a iniciativa:
 
-Desenvolvimento distribuído <br>
-IBM Redhat - desenvolvimento  
+Com assessoria técnica no desenvolvimento aberto à comunidade de desenvolvedores.
+  - **RedHat-IBM** (contato em andamento) <br>
 
-Assessoria técnica <br>
-Hospital Eisntein - 
+Com assessoria técnica nos protocolos de saúde recomendados. <br>
+  - **Hospital Eisntein** (contato em andamento) <br>
 
-Divulgação <br>
-Veículos de comunicação - 
+Com a divulgação da iniciativa <br>
+  - **Veículo de comunicação 1** <br>
 
 ...
