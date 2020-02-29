@@ -150,12 +150,14 @@ Project Link: [https://github.com/imagine-apps/COVID-19](https://github.com/imag
 * []()
 -->
 
+<p align="center">
 
-<a center 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
-</a>
-
+<p align="center">
+  <a href="Logo"> 
+    <img src="/docs/img/covid19_logo1.png" alt="Logo">
+  </a>
+</p>
+<p align="center">
     <a href="https://github.com/imagine-apps/COVID-19">View Demo</a>
     ·
     <a href="https://github.com/imagine-apps/COVID-19/issues">Report Bug</a>
