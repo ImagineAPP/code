@@ -100,7 +100,7 @@ To contribute to the project, follow these steps:
 4. Push to the original branch (`git push origin '<project_name>/<location>`)
 5. Open a new Pull Request
 
-Alternatively see the GitHub documentation on creating a pull request.
+Alternatively see the GitHub documentation on [creating a pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
 
 ### Roadmap and release history
 See the [open issues](https://github.com/imagine-apps/COVID-19/issues) for a list of proposed features (and known issues).
@@ -123,7 +123,7 @@ If you want to contact me you can reach me at [LinkedIn](https://linkedin.com/in
 * []()
 -->
 
-<br>
+<br><br>
 <p align="center">
   <a href="Logo"> 
     <img src="/docs/img/covid19_logo1.png" alt="Logo">
