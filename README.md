@@ -2,6 +2,8 @@
 
 ### Collaborative tool to map COVID-19's transmission on public routes.
 
+The software collects information from collaborating users and displays real-time maps of the **current status** and **historical evolution** of the human-to-human transmission of the COVID-19 virus on public transport in a locality.
+
 <!-- PROJECT SHIELDS -->
 <!--
 [![NPM Version][npm-image]][npm-url]
@@ -19,13 +21,14 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 -->
 
-The software collects information from collaborating users and displays real-time maps of the **current status** and **historical evolution** of the human-to-human transmission of the COVID-19 virus on public transport in a locality.
 
-<!-- MENU -->
 <p>
     <a href="https://github.com/imagine-apps/COVID-19/wiki"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
+
+
+
+<br />
+<br />
 
 <!-- TABLE OF CONTENTS 
 ## Table of Contents
