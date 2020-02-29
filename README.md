@@ -1,4 +1,4 @@
-# COVID-19 COLLABORATIVE TRACK
+# COVID-19 Collaborative Tracker
 > Open source software application that maps the transmission potential of COVID-19 on public transport routes.
 
 [![NPM Version][npm-image]][npm-url]
