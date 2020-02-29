@@ -24,7 +24,8 @@
 
 The software collects information from collaborating users and displays real-time maps of the **current status** and **historical evolution** of the human-to-human transmission of the COVID-19 virus on public transport in a locality.
 
-<!-- PROJECT MANU -->
+<!-- PROJECT MENU -->
+<p>
     <a href="https://github.com/imagine-apps/COVID-19/wiki"><strong>Explore the docs »</strong></a>
     <br />
     <br />
@@ -33,9 +34,9 @@ The software collects information from collaborating users and displays real-tim
     <a href="https://github.com/imagine-apps/COVID-19/issues">Report Bug</a>
     ·
     <a href="https://github.com/imagine-apps/COVID-19/issues">Request Feature</a>
-  </p>
 </p>
 
+[![Product Name Screen Shot][product-screenshot]](https://example.com)
 
 
 <!-- TABLE OF CONTENTS -->
@@ -79,9 +80,6 @@ git clone https://github.com/imagine-apps/COVID-19.git
 npm install
 ```
 
-
-
-
 ## Installation
 
 OS X & Linux:
@@ -102,6 +100,15 @@ A few motivating and useful examples of how your product can be used. Spice this
 
 _For more examples and usage, please refer to the [Wiki][wiki]._
 
+
+<!-- USAGE EXAMPLES -->
+## Usage
+
+Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+
+_For more examples, please refer to the [Documentation](https://example.com)_
+
+
 ## Development setup
 
 Describe how to install all development dependencies and how to run an automated test-suite of some kind. Potentially do this for multiple platforms.
@@ -110,6 +117,12 @@ Describe how to install all development dependencies and how to run an automated
 make install
 npm test
 ```
+
+<!-- ROADMAP -->
+## Roadmap
+
+See the [open issues](https://github.com/imagine-apps/COVID-19/issues) for a list of proposed features (and known issues).
+
 
 ## Release History
 
@@ -142,46 +155,6 @@ Distributed under the XYZ license. See ``LICENSE`` for more information.
 4. Push to the branch (`git push origin feature/fooBar`)
 5. Create a new Pull Request
 
-<!-- Markdown link & img dfn's -->
-[npm-image]: https://img.shields.io/npm/v/datadog-metrics.svg?style=flat-square
-[npm-url]: https://npmjs.org/package/datadog-metrics
-[npm-downloads]: https://img.shields.io/npm/dm/datadog-metrics.svg?style=flat-square
-[travis-image]: https://img.shields.io/travis/dbader/node-datadog-metrics/master.svg?style=flat-square
-[travis-url]: https://travis-ci.org/dbader/node-datadog-metrics
-[wiki]: https://github.com/imagine-apps/COVID-19/wiki
-
-
-
-<!-- ABOUT THE PROJECT -->
-## About The Project
-
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
-
-### Built With
-
-* []()
-* []()
-* []()
-
-
-
-
-<!-- USAGE EXAMPLES -->
-## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-
-
-<!-- ROADMAP -->
-## Roadmap
-
-See the [open issues](https://github.com/imagine-apps/COVID-19/issues) for a list of proposed features (and known issues).
-
-
 
 <!-- CONTRIBUTING -->
 ## Contributing
@@ -194,14 +167,13 @@ Contributions are what make the open source community such an amazing place to b
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-
-
+<br>
 <!-- LICENSE -->
 ## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
-
+<br>
 
 <!-- CONTACT -->
 ## Contact
@@ -210,7 +182,7 @@ Your Name - [@jorgecataldo](https://twitter.com/jorgecataldo) - jorge.cataldo@gm
 
 Project Link: [https://github.com/imagine-apps/COVID-19](https://github.com/imagine-apps/COVID-19)
 
-
+<br>
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
@@ -223,8 +195,9 @@ Project Link: [https://github.com/imagine-apps/COVID-19](https://github.com/imag
 https://github.com/imagine-apps/COVID-19
 
 
-<!-- MARKDOWN LINKS & IMAGES -->
+<!-- Markdown link & img dfn's -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+
 [contributors-shield]: https://img.shields.io/github/contributors/imagine-apps/COVID-19.svg?style=flat-square
 [contributors-url]: https://github.com/imagine-apps/COVID-19/graphs/contributors
 
@@ -244,3 +217,12 @@ https://github.com/imagine-apps/COVID-19
 [linkedin-url]: https://linkedin.com/in/jorgecataldo
 
 [product-screenshot]: /docs/img/covid19_logo1.png
+
+[npm-image]: https://img.shields.io/npm/v/datadog-metrics.svg?style=flat-square
+[npm-url]: https://npmjs.org/package/datadog-metrics
+[npm-downloads]: https://img.shields.io/npm/dm/datadog-metrics.svg?style=flat-square
+
+[wiki]: https://github.com/imagine-apps/COVID-19/wiki
+
+[travis-image]: https://img.shields.io/travis/dbader/node-datadog-metrics/master.svg?style=flat-square
+[travis-url]: https://travis-ci.org/dbader/node-datadog-metrics
