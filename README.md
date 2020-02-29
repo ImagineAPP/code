@@ -77,14 +77,15 @@ edit autoexec.bat
 <br>
 
 ## Using COVID-19 CollaborativeTracker
-
-The first tests with the application are being carried out in the city of São Paulo, Brazil, under the guidance of the health authorities of the local government.
-
-_For more examples and usage, please refer to the [Usage Examples][usage-example]._
+To use <project_name>, follow these steps:
 
 ### License
 Distributed under the MIT License. See ![License][license-url] for more information.
 
+### São Paulo City, 2020
+The first tests with the application are being carried out in the city of São Paulo, Brazil, under the guidance of the health authorities of the local government.
+
+_For more examples and usage, please refer to the [COVID-19 CT Usage Examples][usage-example]._
 
 <br>
 
