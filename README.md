@@ -279,4 +279,4 @@ https://github.com/imagine-apps/COVID-19
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/othneildrew
 
-[product-screenshot]: images/screenshot.png
+[product-screenshot]: /docs/img/covid19_logo1.png
