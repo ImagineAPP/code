@@ -39,9 +39,8 @@ The software collects information from collaborating users and displays real-tim
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
 
-<!-- TABLE OF CONTENTS -->
+<!-- TABLE OF CONTENTS 
 ## Table of Contents
-
 * [About the Project](#about-the-project)
   * [Built With](#built-with)
 * [Getting Started](#getting-started)
@@ -53,6 +52,7 @@ The software collects information from collaborating users and displays real-tim
 * [License](#license)
 * [Contact](#contact)
 * [Acknowledgements](#acknowledgements)
+-->
 
 <br /> 
 
