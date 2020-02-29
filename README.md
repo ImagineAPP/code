@@ -1,6 +1,6 @@
-# COVID-19 [Collaborative Tracker]
+# COVID-19 Collaborative Tracker
 
-### Collaborative mobile application that maps the COVID-19 human-to-human transmission on public routes. 
+### Collaborative tool to map COVID-19's transmission on public routes.
 
 <!-- PROJECT SHIELDS -->
 <!--
@@ -43,22 +43,14 @@ The software collects information from collaborating users and displays real-tim
 -->
 
 
-<br>
-
-<!-- GETTING STARTED -->
-## Getting Started
-
-To get a local copy up and running follow these simple steps.
-
-### Prerequisites
-
-This is an example of how to list things you need to use the software and how to install them.
+## Requirements
+Before you begin, ensure you have met the following requirements:
 * npm
 ```sh
 npm install npm@latest -g
 ```
 
-### Installation
+## Installing COVID-19 Collaborative Tracker
  
 1. Clone the COVID-19
 ```sh
@@ -82,7 +74,20 @@ edit autoexec.bat
 ```
 <br>
 
-## Development setup
+<!-- USAGE EXAMPLES -->
+## Using COVID-19 Collaborative Tracker
+
+The first tests with the application are being carried out in the city of São Paulo, Brazil, under the guidance of the health authorities of the local government.
+
+_For more examples and usage, please refer to the [Usage Examples][usage-example]._
+
+
+## Contributing to COVID-19 Collaborative Tracker
+1. Fork the project (<https://github.com/imagine-apps/COVID-19/fork>)
+2. Create your branch (`git checkout -b <branch_name>`)
+3. Make your changes and commit them: (`git commit -m '<commit_message>`)
+4. Push to the original branch (`git push origin '<project_name>/<location>`)
+5. Open a new Pull Request
 
 Describe how to install all development dependencies and how to run an automated test-suite of some kind. Potentially do this for multiple platforms.
 
@@ -94,60 +99,19 @@ npm test
 <br>
 
 <!-- ROADMAP -->
-## Roadmap
+### Roadmap and release history
 
 See the [open issues](https://github.com/imagine-apps/COVID-19/issues) for a list of proposed features (and known issues).
 
-
 <br>
 
-## Release History
-
-* 0.2.1
-    * CHANGE: Update docs (module code remains unchanged)
-* 0.2.0
-    * CHANGE: Remove `setDefaultXYZ()`
-    * ADD: Add `init()`
-* 0.1.1
-    * FIX: Crash when calling `baz()` (Thanks @GenerousContributorName!)
-* 0.1.0
-    * The first proper release
-    * CHANGE: Rename `foo()` to `bar()`
-* 0.0.1
-    * Work in progress
-
-<br>
-
-<!-- USAGE EXAMPLES -->
-## Usage example
-
-The first tests with the application are being carried out in the city of São Paulo, Brazil, under the guidance of the health authorities of the local government.
-
-_For more examples and usage, please refer to the [Usage Examples][usage-example]._
-
-
-<br>
-
-<!-- CONTRIBUTING -->
-## Contributing 
-1. Fork the project (<https://github.com/imagine-apps/COVID-19/fork>)
-2. Create your feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a new Pull Request
-
-<br>
-
-<!-- LICENSE -->
-## License
+### License
 Distributed under the MIT License. See ![License][license-url] for more information.
 
 <br>
 
-<!-- CONTACT -->
 ## Contact
-Jorge Cataldo - [@jorgecataldo](https://twitter.com/jorgecataldo) - jorge.cataldo.br@gmail.com <br>
-Project Link: [https://github.com/imagine-apps/COVID-19](https://github.com/imagine-apps/COVID-19)
+If you want to contact me you can reach me at [LinkedIn] (https://linkedin.com/in/jorgecataldo)
 
 <!-- ACKNOWLEDGEMENTS 
 ## Acknowledgements
