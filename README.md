@@ -121,55 +121,34 @@ See the [open issues](https://github.com/imagine-apps/COVID-19/issues) for a lis
 <br>
 
 <!-- CONTRIBUTING -->
-## Contributing
-
-Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-1. Fork it (<https://github.com/imagine-apps/COVID-19/fork>)
-2. Create your feature branch (`git checkout -b feature/fooBar`)
-3. Commit your changes (`git commit -am 'Add some fooBar'`)
-4. Push to the branch (`git push origin feature/fooBar`)
-5. Create a new Pull Request
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
+## Contributing 
+1. Fork the project (<https://github.com/imagine-apps/COVID-19/fork>)
+2. Create your feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the branch (`git push origin feature/AmazingFeature`)
+5. Open a new Pull Request
 
 <br>
+
 <!-- LICENSE -->
 ## License
-Distributed under the MIT License. See `LICENSE` for more information.
+Distributed under the MIT License. See ![License][license-url] for more information.
 
 <br>
-
-## Meta
-Your Name – [@YourTwitter](https://twitter.com/jorgecataldo) – jorge.cataldo.br@gmail.com
-
-Distributed under the XYZ license. See ``LICENSE`` for more information.
-
-[https://github.com/yourname/github-link](https://github.com/dbader/)
-
 
 <!-- CONTACT -->
 ## Contact
-
-Your Name - [@jorgecataldo](https://twitter.com/jorgecataldo) - jorge.cataldo@gmail.com
-
+Jorge Cataldo - [@jorgecataldo](https://twitter.com/jorgecataldo) - jorge.cataldo.br@gmail.com
 Project Link: [https://github.com/imagine-apps/COVID-19](https://github.com/imagine-apps/COVID-19)
 
 <br>
 
-<!-- ACKNOWLEDGEMENTS -->
+<!-- ACKNOWLEDGEMENTS 
 ## Acknowledgements
-
 * []()
 * []()
 * []()
-
-
-https://github.com/imagine-apps/COVID-19
+-->
 
 
 <a center 
