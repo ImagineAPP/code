@@ -39,6 +39,6 @@ Colaboram com a divulgação da iniciativa <br>
 <br><br>
 
 **Licença de uso**  <br>
-O software está disponível à comunidade internacional sob a modalidade **creative commons** em [github.com/imagine-apps/COVID-19](github.com/imagine-apps/COVID-19). 
+O software está disponível à comunidade internacional sob a modalidade **creative commons** em [github.com/imagine-apps/COVID-19](https://imagine-apps.github.io/COVID-19/). 
 
 ...
