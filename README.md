@@ -7,11 +7,6 @@
 [![NPM Version][npm-image]][npm-url]
 [![Build Status][travis-image]][travis-url]
 [![Downloads Stats][npm-downloads]][npm-url]
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 
 [![Contributors][contributors-shield]][contributors-url]
@@ -19,25 +14,18 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
 
+<!--  
+[![LinkedIn][linkedin-shield]][linkedin-url]
+-->
 
 The software collects information from collaborating users and displays real-time maps of the **current status** and **historical evolution** of the human-to-human transmission of the COVID-19 virus on public transport in a locality.
 
-<!-- PROJECT MENU -->
+<!-- MENU -->
 <p>
     <a href="https://github.com/imagine-apps/COVID-19/wiki"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/imagine-apps/COVID-19">View Demo</a>
-    ·
-    <a href="https://github.com/imagine-apps/COVID-19/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/imagine-apps/COVID-19/issues">Request Feature</a>
-</p>
-
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
 
 <!-- TABLE OF CONTENTS 
 ## Table of Contents
@@ -53,8 +41,6 @@ The software collects information from collaborating users and displays real-tim
 * [Contact](#contact)
 * [Acknowledgements](#acknowledgements)
 -->
-
-<br /> 
 
 <!-- GETTING STARTED -->
 ## Getting Started
@@ -80,8 +66,6 @@ git clone https://github.com/imagine-apps/COVID-19.git
 npm install
 ```
 
-## Installation
-
 OS X & Linux:
 
 ```sh
@@ -94,20 +78,15 @@ Windows:
 edit autoexec.bat
 ```
 
+
+<!-- USAGE EXAMPLES -->
 ## Usage example
 
 A few motivating and useful examples of how your product can be used. Spice this up with code blocks and potentially more screenshots.
 
-_For more examples and usage, please refer to the [Wiki][wiki]._
-
-
-<!-- USAGE EXAMPLES -->
-## Usage
-
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
-_For more examples, please refer to the [Documentation](https://example.com)_
-
+_For more examples and usage, please refer to the [Wiki][wiki]._
 
 ## Development setup
 
@@ -139,27 +118,18 @@ See the [open issues](https://github.com/imagine-apps/COVID-19/issues) for a lis
 * 0.0.1
     * Work in progress
 
-## Meta
+<br>
 
-Your Name – [@YourTwitter](https://twitter.com/jorgecataldo) – jorge.cataldo.br@gmail.com
-
-Distributed under the XYZ license. See ``LICENSE`` for more information.
-
-[https://github.com/yourname/github-link](https://github.com/dbader/)
-
+<!-- CONTRIBUTING -->
 ## Contributing
+
+Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
 1. Fork it (<https://github.com/imagine-apps/COVID-19/fork>)
 2. Create your feature branch (`git checkout -b feature/fooBar`)
 3. Commit your changes (`git commit -am 'Add some fooBar'`)
 4. Push to the branch (`git push origin feature/fooBar`)
 5. Create a new Pull Request
-
-
-<!-- CONTRIBUTING -->
-## Contributing
-
-Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
 1. Fork the Project
 2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
@@ -170,10 +140,17 @@ Contributions are what make the open source community such an amazing place to b
 <br>
 <!-- LICENSE -->
 ## License
-
 Distributed under the MIT License. See `LICENSE` for more information.
 
 <br>
+
+## Meta
+Your Name – [@YourTwitter](https://twitter.com/jorgecataldo) – jorge.cataldo.br@gmail.com
+
+Distributed under the XYZ license. See ``LICENSE`` for more information.
+
+[https://github.com/yourname/github-link](https://github.com/dbader/)
+
 
 <!-- CONTACT -->
 ## Contact
@@ -193,6 +170,21 @@ Project Link: [https://github.com/imagine-apps/COVID-19](https://github.com/imag
 
 
 https://github.com/imagine-apps/COVID-19
+
+
+<a center 
+[![Product Name Screen Shot][product-screenshot]](https://example.com)
+
+</a>
+
+    <a href="https://github.com/imagine-apps/COVID-19">View Demo</a>
+    ·
+    <a href="https://github.com/imagine-apps/COVID-19/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/imagine-apps/COVID-19/issues">Request Feature</a>
+</p>
+
+
 
 
 <!-- Markdown link & img dfn's -->
