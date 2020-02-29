@@ -77,7 +77,7 @@ edit autoexec.bat
 <br>
 
 ## Using COVID-19 CollaborativeTracker
-To use <project_name>, follow these steps:
+To use the collaborative tool, follow these steps:
 ```sh
 edit autoexec.bat
 ```
