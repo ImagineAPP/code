@@ -1,6 +1,6 @@
-# COVID-19 Collaborative Tracker
+# COVID-19 [Collaborative Tracker]
 
-Open source software application that maps the transmission potential of COVID-19 on public transport routes.
+*Open source software application that maps the transmission of COVID-19 on public routes.* <br>
 
 <!-- PROJECT SHIELDS -->
 <!--
@@ -22,9 +22,7 @@ Open source software application that maps the transmission potential of COVID-1
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 
-
-
-Throughout the evolution of the epidemic, the software collects information from collaborating users and displays real-time maps of the current status and historical evolution of the human-to-human transmission of the COVID-19 virus on public transport in a locality.
+The software collects information from collaborating users and displays real-time maps of the **current status** and **historical evolution** of the human-to-human transmission of the COVID-19 virus on public transport in a locality.
 
 ![](header.png)
 
