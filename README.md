@@ -1,11 +1,11 @@
-# Product Name
-> Short blurb about what your product does.
+# COVID-19 COLLABORATIVE TRACK
+> Open source software application that maps the transmission potential of COVID-19 on public transport routes.
 
 [![NPM Version][npm-image]][npm-url]
 [![Build Status][travis-image]][travis-url]
 [![Downloads Stats][npm-downloads]][npm-url]
 
-One to two paragraph statement about your product and what it does.
+Throughout the evolution of the epidemic, the software collects information from collaborating users and displays real-time maps of the current status and historical evolution of the human-to-human transmission of the COVID-19 virus on public transport in a locality.
 
 ![](header.png)
 
@@ -55,7 +55,7 @@ npm test
 
 ## Meta
 
-Your Name – [@YourTwitter](https://twitter.com/dbader_org) – YourEmail@example.com
+Your Name – [@YourTwitter](https://twitter.com/jorgecataldo) – jorge.cataldo.br@gmail.com
 
 Distributed under the XYZ license. See ``LICENSE`` for more information.
 
@@ -63,7 +63,7 @@ Distributed under the XYZ license. See ``LICENSE`` for more information.
 
 ## Contributing
 
-1. Fork it (<https://github.com/yourname/yourproject/fork>)
+1. Fork it (<https://github.com/imagine-apps/COVID-19/fork>)
 2. Create your feature branch (`git checkout -b feature/fooBar`)
 3. Commit your changes (`git commit -am 'Add some fooBar'`)
 4. Push to the branch (`git push origin feature/fooBar`)
@@ -75,7 +75,7 @@ Distributed under the XYZ license. See ``LICENSE`` for more information.
 [npm-downloads]: https://img.shields.io/npm/dm/datadog-metrics.svg?style=flat-square
 [travis-image]: https://img.shields.io/travis/dbader/node-datadog-metrics/master.svg?style=flat-square
 [travis-url]: https://travis-ci.org/dbader/node-datadog-metrics
-[wiki]: https://github.com/yourname/yourproject/wiki
+[wiki]: https://github.com/imagine-apps/COVID-19/wiki
 
 
 
