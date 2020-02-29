@@ -82,6 +82,9 @@ The first tests with the application are being carried out in the city of São P
 
 _For more examples and usage, please refer to the [Usage Examples][usage-example]._
 
+### License
+Distributed under the MIT License. See ![License][license-url] for more information.
+
 
 <br>
 
@@ -102,11 +105,11 @@ npm test
 ### Roadmap and release history
 See the [open issues](https://github.com/imagine-apps/COVID-19/issues) for a list of proposed features (and known issues).
 
-### License
-Distributed under the MIT License. See ![License][license-url] for more information.
+
+<br>
 
 ## Contact
-If you want to contact me you can reach me at [LinkedIn] (https://linkedin.com/in/jorgecataldo)
+If you want to contact me you can reach me at [LinkedIn](https://linkedin.com/in/jorgecataldo)
 
 <!-- ACKNOWLEDGEMENTS 
 ## Acknowledgements
