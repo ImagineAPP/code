@@ -1,8 +1,8 @@
 **O que é** <br>
-Aplicação mobile de **software de código aberto** que mapeia o potencial de transmissão do COVID-19 nos trajetos de transportes públicos. <br><br> 
+Aplicação mobile **colaborativa** de **software de código aberto** que mapeia o potencial de transmissão do COVID-19 nos trajetos de transportes públicos. <br><br> 
 
 **Como**  <br>
-Ao longo da evolução da epidemia, o software calcula e exibe mapas em tempo real do **status atual** e do **histórico de evolução** do potencial de transmissão entre humanos do vírus COVID-19 nos diversos trajetos dos transportes públicos de uma localidade. <br><br> 
+Ao longo da evolução da epidemia, o software colhe informações dos usuários-colaboradores e exibe mapas em tempo real do **status atual** e do **histórico de evolução** da transmissão entre humanos do vírus COVID-19 nos transportes públicos de uma localidade. <br><br> 
 
 **Para que** <br>
 Com o mapeamento dos principais eixos de transmissão potencial do vírus: 
