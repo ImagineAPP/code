@@ -24,7 +24,63 @@
 
 The software collects information from collaborating users and displays real-time maps of the **current status** and **historical evolution** of the human-to-human transmission of the COVID-19 virus on public transport in a locality.
 
-![](header.png)
+<!-- PROJECT MANU -->
+    <a href="https://github.com/imagine-apps/COVID-19/wiki"><strong>Explore the docs »</strong></a>
+    <br />
+    <br />
+    <a href="https://github.com/imagine-apps/COVID-19">View Demo</a>
+    ·
+    <a href="https://github.com/imagine-apps/COVID-19/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/imagine-apps/COVID-19/issues">Request Feature</a>
+  </p>
+</p>
+
+
+
+<!-- TABLE OF CONTENTS -->
+## Table of Contents
+
+* [About the Project](#about-the-project)
+  * [Built With](#built-with)
+* [Getting Started](#getting-started)
+  * [Prerequisites](#prerequisites)
+  * [Installation](#installation)
+* [Usage](#usage)
+* [Roadmap](#roadmap)
+* [Contributing](#contributing)
+* [License](#license)
+* [Contact](#contact)
+* [Acknowledgements](#acknowledgements)
+
+<br /> 
+
+<!-- GETTING STARTED -->
+## Getting Started
+
+To get a local copy up and running follow these simple steps.
+
+### Prerequisites
+
+This is an example of how to list things you need to use the software and how to install them.
+* npm
+```sh
+npm install npm@latest -g
+```
+
+### Installation
+ 
+1. Clone the COVID-19
+```sh
+git clone https://github.com/imagine-apps/COVID-19.git
+```
+2. Install NPM packages
+```sh
+npm install
+```
+
+
+
 
 ## Installation
 
@@ -96,74 +152,10 @@ Distributed under the XYZ license. See ``LICENSE`` for more information.
 
 
 
-
-<!--
-*** Thanks for checking out this README Template. If you have a suggestion that would
-*** make this better, please fork the repo and create a pull request or simply open
-*** an issue with the tag "enhancement".
-*** Thanks again! Now go create something AMAZING! :D
-***
-***
-***
-*** To avoid retyping too much info. Do a search and replace for the following:
-*** github_username, repo, twitter_handle, email
--->
-
-
-
-
-
-
-<!-- PROJECT LOGO -->
-<br />
-<p align="center">
-  <a href="https://github.com/imagine-apps/COVID-19">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
-
-  <h3 align="center">YOUR_TITLE</h3>
-
-  <p align="center">
-    YOUR_SHORT_DESCRIPTION
-    <br />
-    <a href="https://github.com/imagine-apps/COVID-19"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/imagine-apps/COVID-19">View Demo</a>
-    ·
-    <a href="https://github.com/imagine-apps/COVID-19/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/imagine-apps/COVID-19/issues">Request Feature</a>
-  </p>
-</p>
-
-
-
-<!-- TABLE OF CONTENTS -->
-## Table of Contents
-
-* [About the Project](#about-the-project)
-  * [Built With](#built-with)
-* [Getting Started](#getting-started)
-  * [Prerequisites](#prerequisites)
-  * [Installation](#installation)
-* [Usage](#usage)
-* [Roadmap](#roadmap)
-* [Contributing](#contributing)
-* [License](#license)
-* [Contact](#contact)
-* [Acknowledgements](#acknowledgements)
-
-
-
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
-
-Here's a blank template to get started:
-**To avoid retyping too much info. Do a search and replace with your text editor for the following:**
-`imagine-apps`, `COVID-19`, `twitter_handle`, `email`
 
 
 ### Built With
@@ -172,31 +164,6 @@ Here's a blank template to get started:
 * []()
 * []()
 
-
-
-<!-- GETTING STARTED -->
-## Getting Started
-
-To get a local copy up and running follow these simple steps.
-
-### Prerequisites
-
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-```sh
-npm install npm@latest -g
-```
-
-### Installation
- 
-1. Clone the COVID-19
-```sh
-git clone https://github.com/imagine-apps/COVID-19.git
-```
-2. Install NPM packages
-```sh
-npm install
-```
 
 
 
@@ -274,6 +241,6 @@ https://github.com/imagine-apps/COVID-19
 [license-url]: https://github.com/imagine-apps/COVID-19/blob/master/LICENSE.txt
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/othneildrew
+[linkedin-url]: https://linkedin.com/in/jorgecataldo
 
 [product-screenshot]: /docs/img/covid19_logo1.png
