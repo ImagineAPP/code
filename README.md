@@ -1,4 +1,4 @@
-# COVID-19 Collaborative Tracker
+# COVID-19 CollaborativeTracker
 
 ### Collaborative tool to map COVID-19's transmission on public routes.
 
@@ -51,7 +51,7 @@ npm install npm@latest -g
 ```
 <br>
 
-## Installing COVID-19 Collaborative Tracker
+## Installing COVID-19 CollaborativeTracker
  
 1. Clone the COVID-19
 ```sh
@@ -76,7 +76,7 @@ edit autoexec.bat
 
 <br>
 
-## Using COVID-19 Collaborative Tracker
+## Using COVID-19 CollaborativeTracker
 
 The first tests with the application are being carried out in the city of São Paulo, Brazil, under the guidance of the health authorities of the local government.
 
@@ -88,7 +88,7 @@ Distributed under the MIT License. See ![License][license-url] for more informat
 
 <br>
 
-## Contributing to COVID-19 Collaborative Tracker
+## Contributing to COVID-19 CollaborativeTracker
 1. Fork the project (<https://github.com/imagine-apps/COVID-19/fork>)
 2. Create your branch (`git checkout -b <branch_name>`)
 3. Make your changes and commit them: (`git commit -m '<commit_message>`)
