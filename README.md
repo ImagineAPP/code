@@ -49,6 +49,7 @@ Before you begin, ensure you have met the following requirements:
 ```sh
 npm install npm@latest -g
 ```
+<br>
 
 ## Installing COVID-19 Collaborative Tracker
  
@@ -72,15 +73,17 @@ Windows:
 ```sh
 edit autoexec.bat
 ```
+
 <br>
 
-<!-- USAGE EXAMPLES -->
 ## Using COVID-19 Collaborative Tracker
 
 The first tests with the application are being carried out in the city of São Paulo, Brazil, under the guidance of the health authorities of the local government.
 
 _For more examples and usage, please refer to the [Usage Examples][usage-example]._
 
+
+<br>
 
 ## Contributing to COVID-19 Collaborative Tracker
 1. Fork the project (<https://github.com/imagine-apps/COVID-19/fork>)
@@ -96,19 +99,11 @@ make install
 npm test
 ```
 
-<br>
-
-<!-- ROADMAP -->
 ### Roadmap and release history
-
 See the [open issues](https://github.com/imagine-apps/COVID-19/issues) for a list of proposed features (and known issues).
-
-<br>
 
 ### License
 Distributed under the MIT License. See ![License][license-url] for more information.
-
-<br>
 
 ## Contact
 If you want to contact me you can reach me at [LinkedIn] (https://linkedin.com/in/jorgecataldo)
@@ -120,8 +115,7 @@ If you want to contact me you can reach me at [LinkedIn] (https://linkedin.com/i
 * []()
 -->
 
-<p align="center">
-
+<br>
 <p align="center">
   <a href="Logo"> 
     <img src="/docs/img/covid19_logo1.png" alt="Logo">
