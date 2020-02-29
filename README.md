@@ -42,6 +42,9 @@ The software collects information from collaborating users and displays real-tim
 * [Acknowledgements](#acknowledgements)
 -->
 
+
+<br>
+
 <!-- GETTING STARTED -->
 ## Getting Started
 
@@ -77,16 +80,7 @@ Windows:
 ```sh
 edit autoexec.bat
 ```
-
-
-<!-- USAGE EXAMPLES -->
-## Usage example
-
-A few motivating and useful examples of how your product can be used. Spice this up with code blocks and potentially more screenshots.
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples and usage, please refer to the [Wiki][wiki]._
+<br>
 
 ## Development setup
 
@@ -97,11 +91,15 @@ make install
 npm test
 ```
 
+<br>
+
 <!-- ROADMAP -->
 ## Roadmap
 
 See the [open issues](https://github.com/imagine-apps/COVID-19/issues) for a list of proposed features (and known issues).
 
+
+<br>
 
 ## Release History
 
@@ -117,6 +115,16 @@ See the [open issues](https://github.com/imagine-apps/COVID-19/issues) for a lis
     * CHANGE: Rename `foo()` to `bar()`
 * 0.0.1
     * Work in progress
+
+<br>
+
+<!-- USAGE EXAMPLES -->
+## Usage example
+
+The first tests with the application are being carried out in the city of São Paulo, Brazil, under the guidance of the health authorities of the local government.
+
+_For more examples and usage, please refer to the [Usage Examples][usage-example]._
+
 
 <br>
 
@@ -138,10 +146,8 @@ Distributed under the MIT License. See ![License][license-url] for more informat
 
 <!-- CONTACT -->
 ## Contact
-Jorge Cataldo - [@jorgecataldo](https://twitter.com/jorgecataldo) - jorge.cataldo.br@gmail.com
+Jorge Cataldo - [@jorgecataldo](https://twitter.com/jorgecataldo) - jorge.cataldo.br@gmail.com <br>
 Project Link: [https://github.com/imagine-apps/COVID-19](https://github.com/imagine-apps/COVID-19)
-
-<br>
 
 <!-- ACKNOWLEDGEMENTS 
 ## Acknowledgements
@@ -164,8 +170,6 @@ Project Link: [https://github.com/imagine-apps/COVID-19](https://github.com/imag
     ·
     <a href="https://github.com/imagine-apps/COVID-19/issues">Request Feature</a>
 </p>
-
-
 
 
 <!-- Markdown link & img dfn's -->
@@ -196,6 +200,7 @@ Project Link: [https://github.com/imagine-apps/COVID-19](https://github.com/imag
 [npm-downloads]: https://img.shields.io/npm/dm/datadog-metrics.svg?style=flat-square
 
 [wiki]: https://github.com/imagine-apps/COVID-19/wiki
+[usage-example]: https://github.com/imagine-apps/COVID-19/wiki/USAGE-EXAMPLES
 
 [travis-image]: https://img.shields.io/travis/dbader/node-datadog-metrics/master.svg?style=flat-square
 [travis-url]: https://travis-ci.org/dbader/node-datadog-metrics
