@@ -36,8 +36,9 @@ Colaboram com infraestrutura e assessoria técnica no desenvolvimento aberto à 
 
 Colaboram com a divulgação da iniciativa <br>
   - **Veículo de comunicação 1** <br>
+<br><br>
 
-**Licença de uso**
-O software está disponível à comunidade internacional sob a modalidade **creative commons** em GitHub/ImagineApps/COVID-19. 
+**Licença de uso**  <br>
+O software está disponível à comunidade internacional sob a modalidade **creative commons** em github.com/imagine-apps/COVID-19. 
 
 ...
