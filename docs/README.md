@@ -147,7 +147,7 @@ El cronograma de lanzamiento de nuevas versiones se puede seguir en la página w
 <a name="portuguese"></a> 
 <br>
 
-## COVID-19 Mapeamento Colaborativo 
+## COVID-19 Mapeamento Colaborativo
 Ferramenta colaborativa para mapeamento da transmissão do vírus COVID-19 em locais públicos. <br>
 
 <p>
