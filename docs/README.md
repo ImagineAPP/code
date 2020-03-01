@@ -1,7 +1,7 @@
 <a name="start"></a>
 
 ### COVID-19 CollaborativeTracker
-Collaborative tool to map COVID-19's transmission on public routes 5.
+Collaborative tool to map COVID-19's transmission on public routes. 
 ## <br>
 
 <p>
@@ -63,7 +63,7 @@ The release schedule for new versions can be followed on the project's web page 
 
 <p align="center"><a href="#start">back</a></p>
 
-## 
+## <br>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
@@ -73,9 +73,8 @@ The release schedule for new versions can be followed on the project's web page 
 <br>
 
 ### COVID-19 CollaborativeTracker (COVI-19 Rastreador Colaborativo)
-Herramienta de colaboración para mapear la transmisión de COVID-19 en rutas públicas. <br>
-
-##
+Herramienta de colaboración para mapear la transmisión de COVID-19 en rutas públicas. 
+## <br>
 
 **Qué es** <br>
 **Aplicación de software de código abierto** que mapea el potencial de transmisión de COVID-19 en las rutas de transporte público. <br>
@@ -126,7 +125,7 @@ El cronograma de lanzamiento de nuevas versiones se puede seguir en la página w
 
 <p align="center"><a href="#start">volver</a></p>
 
-## 
+## <br>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
@@ -135,9 +134,9 @@ El cronograma de lanzamiento de nuevas versiones se puede seguir en la página w
 <a name="portuguese"></a> 
 <br>
 
-### COVID-19 CollaborativeTracker (COVID-19 Mapeamento Colaborativo)
-Ferramenta colaborativa para mapeamento da transmissão do vírus COVID-19 em locais públicos.
-## 
+### COVID-19 CollaborativeTracker (COVID-19 Mapeamento Colaborativo) 
+Ferramenta colaborativa para mapeamento da transmissão do vírus COVID-19 em locais públicos. 
+## <br>
 
 **O que é** <br>
 Aplicação de **software de código aberto** que mapeia o potencial de transmissão do COVID-19 nos trajetos de transportes públicos. <br><br>
@@ -187,7 +186,7 @@ O cronograma de lançamento de novas versões pode ser acompanhado na página we
 
 <p align="center"><a href="#start">voltar</a></p>
 
-##
+## <br>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
@@ -197,7 +196,7 @@ O cronograma de lançamento de novas versões pode ser acompanhado na página we
 
 ### COVID-19 CollaborativeTracker（COVID-19协作映射）
 用于在公共场所绘制COVID-19传播图的协作工具。
-##
+## <br>
 
 **什么是** <br>
 开源软件应用程序，用于映射COVID-19在公共交通路线上的传输潜力。<br><br>
@@ -247,4 +246,4 @@ O cronograma de lançamento de novas versões pode ser acompanhado na página we
 
 <p align="center"><a href="#start">回来</a></p>
 
-##
+## <br>
