@@ -1,10 +1,8 @@
 <a name="start"></a>
 <br>
 
-### COVID-19 CollaborativeTracker
+## COVID-19 CollaborativeTracker
 A collaborative tool to map COVID-19's transmission on public routes. <br>
-
-***
 
 <p>
     <a href="#start">English</a>
@@ -149,10 +147,8 @@ El cronograma de lanzamiento de nuevas versiones se puede seguir en la página w
 <a name="portuguese"></a> 
 <br>
 
-### COVID-19 Mapeamento Colaborativo 
+## COVID-19 Mapeamento Colaborativo 
 Ferramenta colaborativa para mapeamento da transmissão do vírus COVID-19 em locais públicos. <br>
-
-***
 
 <p>
     <a href="#start">English</a>
@@ -222,10 +218,8 @@ O cronograma de lançamento de novas versões pode ser acompanhado na página we
 <a name="chinese"></a> 
 <br>
 
-### COVID-19协作映射
+## COVID-19协作映射
 用于在公共场所绘制COVID-19传播图的协作工具。<br>
-
-***
 
 <p>
     <a href="#start">English</a>
