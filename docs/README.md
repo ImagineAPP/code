@@ -1,10 +1,13 @@
 <a name="start"></a>
+<br>
 
 ### COVID-19 CollaborativeTracker
-Collaborative tool to map COVID-19's transmission on public routes. 
-## <br>
+A collaborative tool to map COVID-19's transmission on public routes.
+***
 
 <p>
+    <a href="#start">English</a>
+    ·
     <a href="#spanish">Spanish</a>
     ·
     <a href="#portuguese">Portuguese</a>
@@ -15,47 +18,47 @@ Collaborative tool to map COVID-19's transmission on public routes.
 <br>
 
 **What is?** <br>
-**Open-source software** application that maps the transmission potential of COVID-19 on public transport routes. <br>
+**Open-source software** application that maps potential transmission of COVID-19 on public transport routes. <br><br>
 
 **How** <br>
-Throughout the evolution of the epidemic, the software collects information from collaborating users and displays real-time maps of **current status** and **evolution history** of human transmission of the COVID-19 virus on public transport of a city. <br>
+Throughout the evolution of the epidemic, the software collects information from collaborating users and displays real-time maps of **current status** and **evolution history** of human transmission of the COVID-19 virus on public transport of a city. <br><br>
 
 **Why** <br>
 With the mapping of the main potential transmission axes of the virus:
-  - **Users of the application** can trace alternative routes of public transport to temporarily avoid circulation on the routes with the greatest potential for transmission.
-  - **Companies** can plan remote work routines for employees who travel the routes with the greatest potential for transmission.
-  - **Transport companies** can invest in the protection of employees who work on the routes with the greatest potential for transmission to reduce the economic impacts on the operation.
-  - **Health authorities** can access data to more efficiently plan their care awareness campaigns to prevent transmission and to reduce the negative impacts of the disease. <br>
+  - **App users ** can trace alternative routes of public transport to temporarily avoid circulation on the routes with high potential of transmission.
+  - **Companies** can plan remote work for employees who usually travel the routes with high potential of transmission.
+  - **Transport companies** can invest to protect employees who work on the routes with high potential of transmission to reduce their economic impacts.
+  - **Health authorities** can access data to more efficiently plan their care awareness campaigns. <br><br>
 
 **How it works** <br>
-The user does not need to identify himself. He just needs to share the **places of entry and exit** in the public transport network he uses and estimate **how often** he travels along this route. <br>
+The user does not need to identify himself. He/she just needs to share the **places of entry and exit** of the public transport network he usually takes and informs **how often** he/she travels along this route. <br>
 
-The user still needs to inform if he is "without symptoms", if he "feels the symptoms, but has not confirmed the contamination" or if it is a "confirmed case of contamination". <br>
+The user also needs to inform if he/she is "without symptoms", if he/she "feels the symptoms, but has not confirmed the contamination" or if it is a "confirmed case of contamination". <br>
 
-Over the course of the epidemic, the user will be asked to update this information **with one click**, each time they receive a notification on the phone. <br>
+Over the course of the epidemic, the user will be asked to update this information **with one click**, each time he/she receives a notification on the phone. <br><br>
 
 **Maps and graphics** <br>
-The software draws a series of "**heat maps**" and graphical guidelines for laypeople and specialists, among them the "routes with the greatest circulation of the virus" and the history of the evolution of contagion on these routes.
-<br>
+The software draws a series of "**heat maps**" and graphical guidelines for laypeople and specialists, among them the "routes with the highest circulation of the virus" and the history of the evolution of contagion on these routes.
+<br><br>
 
 **Supporters** <br>
 The following communities and organizations support the initiative: <br>
-  - The source code for ***COVID-19 CollaborativeTracker*** is available on the [Github](https://github.com/imagine-apps/COVID-19) platform for free use and contribution of the **open source community**. <br>
+  - The code source of the ***COVID-19 CollaborativeTracker*** is available on the [Github](https://github.com/imagine-apps/COVID-19) platform for free using and contributions of the **open source community**. <br>
 
-  - Collaborate with technical advice on international health protocols: <br>
+  - They collaborate with technical advice on international health protocols: <br>
     - **Hospital Albert Einstein, São Paulo, Brazil.** (contact in progress)
     - **COVID-19 technical monitoring committee at the Brazilian Ministry of Health** (contact in progress)
     - **COVID-19 technical follow-up commission in the São Paulo State Government** (contact in progress) <br>
 
-  - Collaborate with infrastructure and tools for the open-source community: <br>
+  - They collaborate with infrastructure and tools for the open-source community: <br>
     - **Github (Microsoft)** <br>
     - **RedHat (IBM)** (contact in progress) <br>
     - **AWS (Amazon)** (contact in progress) <br>
 
-  - Several communication vehicles also collaborate with the dissemination of the initiative. <br> <br>
+  - Several communication media also collaborate with the dissemination of the initiative. <br><br>
 
 **Mobile app** <br>
-The software development project is coordinated according to the "Github organization" **ImagineApps** which makes the latest stable version available for free on the * app stores * of Android and iOS platforms.
+The software development project is coordinated by the "Github organization" **ImagineApps**, which makes the latest version available for free on the app stores of Android and iOS platforms.
 
 The release schedule for new versions can be followed on the project's web page at [https://imagine-apps.github.io/COVID-19](https://imagine-apps.github.io/COVID-19/#start). <br><br>
 
@@ -72,33 +75,45 @@ The release schedule for new versions can be followed on the project's web page 
 <a name="spanish"></a> 
 <br>
 
-### COVID-19 CollaborativeTracker (COVI-19 Rastreador Colaborativo)
+### COVID-19 Rastreador Colaborativo
 Herramienta de colaboración para mapear la transmisión de COVID-19 en rutas públicas. 
-## <br>
+***
+
+<p>
+    <a href="#start">English</a>
+    ·
+    <a href="#spanish">Spanish</a>
+    ·
+    <a href="#portuguese">Portuguese</a>
+    ·
+    <a href="#chinese">Chinese</a>
+</p>
+
+<br>
 
 **Qué es** <br>
-**Aplicación de software de código abierto** que mapea el potencial de transmisión de COVID-19 en las rutas de transporte público. <br>
+**Aplicación de software de código abierto** que mapea el potencial de transmisión de COVID-19 en las rutas de transporte público. <br><br>
 
 **Cómo** <br>
-A lo largo de la evolución de la epidemia, el software recopila información de usuarios colaboradores y muestra mapas en tiempo real del **estado actual** y del **historial de evolución** de la transmisión humana del virus COVID-19 en el transporte público de una ciudad. <br>
+A lo largo de la evolución de la epidemia, el software recopila información de usuarios colaboradores y muestra mapas en tiempo real del **estado actual** y del **historial de evolución** de la transmisión humana del virus COVID-19 en el transporte público de una ciudad. <br><br>
 
 **Por qué** <br>
 Con el mapeo de los principales ejes de transmisión potenciales del virus:
   - **Los usuarios de la aplicación** pueden rastrear rutas alternativas de transporte público para evitar temporalmente la circulación en las rutas con mayor potencial de transmisión.
   - **Las compañías** pueden planificar rutinas de trabajo remoto para los empleados que viajan por las rutas con mayor potencial de transmisión.
   - **Las empresas de transporte** pueden invertir en la protección de los empleados que trabajan en las rutas con el mayor potencial de transmisión para reducir los impactos económicos en sus operaciones.
-  - **Las autoridades sanitarias** pueden acceder a los datos para planificar de manera más eficiente sus campañas de concientización sobre la atención para prevenir la transmisión y reducir los impactos negativos de la enfermedad. <br>
+  - **Las autoridades sanitarias** pueden acceder a los datos para planificar de manera más eficiente sus campañas de concientización sobre la atención para prevenir la transmisión y reducir los impactos negativos de la enfermedad. <br><br>
 
 **Cómo funciona** <br>
 El usuario no necesita identificarse. Solo necesita compartir los **lugares de entrada y salida** en la red de transporte público que usa y informar **con qué frecuencia** viaja a lo largo de esta ruta. <br>
 
 El usuario también necesita informar si está "sin síntomas", si "siente los síntomas, pero no ha confirmado la contaminación" o si se trata de un "caso confirmado de contaminación". <br>
 
-En el transcurso de la epidemia, se le pedirá al usuario que actualice estas informaciones **con un clic**, cada vez que reciba una notificación por teléfono. <br>
+En el transcurso de la epidemia, se le pedirá al usuario que actualice estas informaciones **con un clic**, cada vez que reciba una notificación por teléfono. <br><br>
 
 **Mapas y gráficos** <br>
 El software dibuja una serie de mapas de calor y pautas gráficas para laicos y especialistas, entre ellos las "rutas con mayor circulación del virus" y la historia de la evolución del contagio en estas rutas.
-<br>
+<br><br>
 
 **Colaboradores** <br>
 Las siguientes comunidades y organizaciones apoyan la iniciativa: <br>
@@ -114,7 +129,7 @@ Las siguientes comunidades y organizaciones apoyan la iniciativa: <br>
     - **RedHat (IBM)** (contacto en progreso) <br>
     - **AWS (Amazon)** (contacto en progreso) <br>
 
-  - Varios vehículos de comunicación también colaboran con la difusión de la iniciativa. <br> <br>
+  - Varios vehículos de comunicación también colaboran con la difusión de la iniciativa. <br><br>
 
 **Aplicación móvil** <br>
 El proyecto de desarrollo de software se coordina de acuerdo con la "organización Github" **ImagineApps** que pone a disposición la última versión estable de forma gratuita en las ***app stores*** de las plataformas Android e iOS.
@@ -134,9 +149,21 @@ El cronograma de lanzamiento de nuevas versiones se puede seguir en la página w
 <a name="portuguese"></a> 
 <br>
 
-### COVID-19 CollaborativeTracker (COVID-19 Mapeamento Colaborativo) 
+### COVID-19 Mapeamento Colaborativo 
 Ferramenta colaborativa para mapeamento da transmissão do vírus COVID-19 em locais públicos. 
-## <br>
+***
+
+<p>
+    <a href="#start">English</a>
+    ·
+    <a href="#spanish">Spanish</a>
+    ·
+    <a href="#portuguese">Portuguese</a>
+    ·
+    <a href="#chinese">Chinese</a>
+</p>
+
+<br>
 
 **O que é** <br>
 Aplicação de **software de código aberto** que mapeia o potencial de transmissão do COVID-19 nos trajetos de transportes públicos. <br><br>
@@ -194,9 +221,21 @@ O cronograma de lançamento de novas versões pode ser acompanhado na página we
 <a name="chinese"></a> 
 <br>
 
-### COVID-19 CollaborativeTracker（COVID-19协作映射）
+### COVID-19协作映射
 用于在公共场所绘制COVID-19传播图的协作工具。
-## <br>
+***
+
+<p>
+    <a href="#start">English</a>
+    ·
+    <a href="#spanish">Spanish</a>
+    ·
+    <a href="#portuguese">Portuguese</a>
+    ·
+    <a href="#chinese">Chinese</a>
+</p>
+
+<br>
 
 **什么是** <br>
 开源软件应用程序，用于映射COVID-19在公共交通路线上的传输潜力。<br><br>
