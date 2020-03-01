@@ -76,10 +76,8 @@ The release schedule for new versions can be followed on the project's web page 
 <a name="spanish"></a> 
 <br>
 
-### COVID-19 Rastreador Colaborativo
+## COVID-19 Rastreador Colaborativo
 Herramienta de colaboración para mapear la transmisión de COVID-19 en rutas públicas. <br>
-
-***
 
 <p>
     <a href="#start">English</a>
