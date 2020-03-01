@@ -1,7 +1,7 @@
 <a name="start"></a>
 
 ### COVID-19 CollaborativeTracker
-Collaborative tool to map COVID-19's transmission on public routes.<br>
+Collaborative tool to map COVID-19's transmission on public routes..<br>
 ## 
 
 <p>
