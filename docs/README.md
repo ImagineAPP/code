@@ -2,7 +2,7 @@
 <br>
 
 ### COVID-19 CollaborativeTracker
-A collaborative tool to map COVID-19's transmission on public routes 2. <br>
+A collaborative tool to map COVID-19's transmission on public routes. <br>
 
 ***
 
@@ -77,7 +77,8 @@ The release schedule for new versions can be followed on the project's web page 
 <br>
 
 ### COVID-19 Rastreador Colaborativo
-Herramienta de colaboración para mapear la transmisión de COVID-19 en rutas públicas. 
+Herramienta de colaboración para mapear la transmisión de COVID-19 en rutas públicas. <br>
+
 ***
 
 <p>
@@ -151,7 +152,8 @@ El cronograma de lanzamiento de nuevas versiones se puede seguir en la página w
 <br>
 
 ### COVID-19 Mapeamento Colaborativo 
-Ferramenta colaborativa para mapeamento da transmissão do vírus COVID-19 em locais públicos. 
+Ferramenta colaborativa para mapeamento da transmissão do vírus COVID-19 em locais públicos. <br>
+
 ***
 
 <p>
@@ -223,7 +225,8 @@ O cronograma de lançamento de novas versões pode ser acompanhado na página we
 <br>
 
 ### COVID-19协作映射
-用于在公共场所绘制COVID-19传播图的协作工具。
+用于在公共场所绘制COVID-19传播图的协作工具。<br>
+
 ***
 
 <p>
