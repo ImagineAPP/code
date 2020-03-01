@@ -2,7 +2,7 @@
 <br>
 
 ### COVID-19 CollaborativeTracker
-A collaborative tool to map COVID-19's transmission on public routes.
+A collaborative tool to map COVID-19's transmission on public routes 1. <br>
 ***
 
 <p>
