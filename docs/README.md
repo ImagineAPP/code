@@ -73,7 +73,8 @@ The release schedule for new versions can be followed on the project's web page 
 <br>
 
 ### COVID-19 CollaborativeTracker (COVI-19 Rastreador Colaborativo)
-Herramienta de colaboración para mapear la transmisión de COVID-19 en rutas públicas.
+Herramienta de colaboración para mapear la transmisión de COVID-19 en rutas públicas. <br>
+
 ##
 
 **Qué es** <br>
